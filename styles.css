@@ -30,8 +30,8 @@ nav {
   height: 160px;
   width: 60%;
   background-color: rgb(255, 254, 254);
-  box-shadow: 1px 0px 15px 6px rgba(0, 0, 0, 0.548);
-  border: 0;
+  
+  border: 2px solid black;
   box-sizing: border-box;
   outline: none;
   position: relative;
